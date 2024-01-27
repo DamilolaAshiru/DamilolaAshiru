@@ -2,7 +2,7 @@
 ---
 
 - 👀 I’m interested in acquiring new skills
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning **data analysis**
 - 💞️ I’m looking forward to learning more analytics skills
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/damilola-ashiru-923500253)
 - 😄 Pronouns: she
