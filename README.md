@@ -9,7 +9,7 @@
 - 💞️ I’m looking forward to learning more analytics skills and collaborating with tech minded persons in order to add value to the tech industry.
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/damilola-ashiru-923500253)
 - 😄 Pronouns: she
-- ⚡ Fun fact: loves to cook and help peoples taste buds feel great, loces dancing , loves indoor games that are educative.
+- ⚡ Fun fact: loves to cook and help peoples taste buds feel great, loVes dancing , loves indoor games that are educative.
 
 <!---
 DamilolaAshiru/DamilolaAshiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
